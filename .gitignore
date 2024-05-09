@@ -2,3 +2,7 @@
 venv
 venv/
 /venv
+chroma/chroma8venv/
+/chroma/chroma8venv/
+./chroma/chroma8venv/
+
