@@ -54,7 +54,9 @@ for doc in loader.lazy_load():
     print(type(doc))
     print(doc)
 ## Test out the async implementation
-async for doc in loader.alazy_load():
-    print()
-    print(type(doc))
-    print(doc)
+# async for doc in loader.alazy_load():
+#     print()
+#     print(type(doc))
+#     print(doc)
+
+
