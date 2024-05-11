@@ -26,3 +26,4 @@ vector = FAISS.from_documents(documents, OpenAIEmbeddings)
 retriever = vector.as_retriever()
 res1= retriever.invoke("How to upload a dataset")[0]
 print(res1)
+
